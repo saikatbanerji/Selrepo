@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16015" started-at="2018-07-15T16:45:50Z" finished-at="2018-07-15T16:46:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16015" started-at="2018-07-15T16:45:50Z" finished-at="2018-07-15T16:46:06Z">
+      <class name="TestNG.addressbook">
+        <test-method status="PASS" signature="launch()[pri:0, instance:TestNG.addressbook@61832929]" name="launch" is-config="true" duration-ms="14711" started-at="2018-07-15T16:45:50Z" finished-at="2018-07-15T16:46:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="verifyaddbook()[pri:0, instance:TestNG.addressbook@61832929]" name="verifyaddbook" duration-ms="1270" started-at="2018-07-15T16:46:05Z" finished-at="2018-07-15T16:46:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyaddbook -->
+      </class> <!-- TestNG.addressbook -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
